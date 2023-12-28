@@ -2,7 +2,7 @@
 
 
 Hey! I'm Dani, 5th year statistical data analytics student.
-Here I post varying projects from discord bots to data analysis.
+Here I post varying projects from discord bots to data analysis or whatever may come into mind.
 
 ## Projects
 
