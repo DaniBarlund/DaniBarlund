@@ -1,6 +1,7 @@
 # Welcome to my github
 
-Hey! I'm Dani, 5th year statistical data analytics student. In here I post varying projects from discord bots to data analysis.
+Hey! I'm Dani, 5th year statistical data analytics student.
+Here I post varying projects from discord bots to data analysis.
 
 ## Projects
 
