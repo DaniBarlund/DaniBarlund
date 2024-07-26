@@ -1,7 +1,7 @@
 ![kuva](https://github.com/DaniBarlund/DaniBarlund/assets/88807329/c4c37c35-4dd7-4d6e-bb35-a50e21da4645)
 
 
-Hey! I'm Dani, 5th year statistical data analytics student.
+Hey! I'm Dani, statistical data analytics student.
 Here I post varying projects from discord bots to data analysis or whatever may come into mind.
 
 ## Projects
